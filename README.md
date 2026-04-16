@@ -1,5 +1,3 @@
-# Semi-Submersible-vessel
-Semi-Submersible vessel with flow controlled braking for stable operation in high current waters.
 # 🌊 Semi-Submersible Riverine Vehicle with Flow-Control Braking Mechanism
 
 This project presents the conceptual design of a semi-submersible riverine vehicle equipped with an integrated flow-control braking system, aimed at improving maneuverability and stability in shallow and high-current water environments.
