@@ -56,6 +56,12 @@ This project was developed to explore an alternative approach using **fluid inte
 
 ---
 
+## 📷 Concept Design
+
+ ![Design Image 1]<img width="710" height="258" alt="Semi Submersible vessel 1" src="https://github.com/user-attachments/assets/245bc41c-9a81-45d6-81b3-7a71973b44f6" />
+![Design Image 2]<img width="602" height="349" alt="Semi-Submersible vessel 2" src="https://github.com/user-attachments/assets/a76786af-7de2-4762-af63-8e3e386c88d5" />
+
+
 ## Design Video
 
 Video -
